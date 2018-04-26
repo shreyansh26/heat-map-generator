@@ -1,0 +1,23 @@
+{
+  "name": "javascript-heatmap",
+  "version": "1.0.0",
+  "description": "A Heat Map of your location using Google Maps API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh26/heat-map-generator.git"
+  },
+  "author": "shreyansh26",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreyansh26/heat-map-generator/issues"
+  },
+  "homepage": "https://github.com/shreyansh26/heat-map-generator#readme",
+  "dependencies": {
+    "express": "4.16.2",
+    "path": "0.12.7"
+  }
+}
